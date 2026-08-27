@@ -1,9 +1,19 @@
 {
   "schema": 1,
   "channels": {
-    "stable": "9.15.0"
+    "stable": "9.26.0"
   },
   "kernel": [
+    {
+      "version": "9.26.0",
+      "kernelVersion": "2.7.0",
+      "minimumCliVersion": "2.1.0",
+      "publishedAt": "2026-08-27T22:17:19.112Z",
+      "bytes": 6432323,
+      "sha256": "51c4cca5e2cf7e2436145f2a52170ec7f6f0c2bc8a47497819e3c034156a0a41",
+      "tarball": "https://github.com/microteia/releases/releases/download/kernel-9.26.0/microteia-kernel-9.26.0.tgz",
+      "manifest": "https://github.com/microteia/releases/releases/download/kernel-9.26.0/manifest.json"
+    },
     {
       "version": "9.15.0",
       "kernelVersion": "2.5.0",
