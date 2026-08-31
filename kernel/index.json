@@ -1,9 +1,19 @@
 {
   "schema": 1,
   "channels": {
-    "stable": "9.38.1"
+    "stable": "9.38.3"
   },
   "kernel": [
+    {
+      "version": "9.38.3",
+      "kernelVersion": "2.12.0",
+      "minimumCliVersion": "2.1.0",
+      "publishedAt": "2026-08-31T14:38:23.200Z",
+      "bytes": 6567812,
+      "sha256": "967fa1fb63b5d68ffeae2f3bea6ab22bc29c1a4cd8aff5708ccb821fba0422eb",
+      "tarball": "https://github.com/microteia/releases/releases/download/kernel-9.38.3/microteia-kernel-9.38.3.tgz",
+      "manifest": "https://github.com/microteia/releases/releases/download/kernel-9.38.3/manifest.json"
+    },
     {
       "version": "9.38.1",
       "kernelVersion": "2.12.0",
